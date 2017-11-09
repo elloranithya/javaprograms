@@ -12,12 +12,7 @@ for(int i =1; i<num.length;i++)
 {
 	
 		
-		large = num[i];
-	else if(num[i]< small) 
-	{
-		small = num[i];
 
-	}
 
 
 }
