@@ -9,6 +9,5 @@ public class FindlargesmallNum {
 // all data loaded
 //////
 }
-//hi nithya 
-//hi divya 
+//hi divya sssss
 }}
